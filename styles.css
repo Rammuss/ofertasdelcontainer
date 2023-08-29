@@ -8,15 +8,13 @@ body {
     background-color: black;
     display: flex;
     height: auto;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    padding-left: 150px;
-    padding-right: 150px;
-    margin-left: auto;
-    margin-right: auto;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0 auto;
     justify-content: space-between;
     align-items: left;
-
 }
 
 .ofertasdelcontainer,
@@ -31,13 +29,12 @@ body {
 }
 
 .imgofertas {
-    width: 80px;
-    height: 80px;
+    max-width: 80px;
+    height: auto;
 }
-
 .ofertasimg {
-    width: 87.4px;
-    height: 87.4px;
+    width: 7%;
+    height: 7%;
 }
 
 .div-fc {
@@ -48,9 +45,9 @@ body {
 
 .imgfc {
     top: 15px;
-    bottom: 0px;
+    bottom: 0;
     width: 60px;
-    height: 60px;
+    height: auto;
 }
 
 .ainicio {
@@ -58,12 +55,11 @@ body {
     color: white;
 }
 
-
 .ofertasdelcontainer {
     color: white;
     background-color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.5em;
 }
 
 .div-img {
@@ -75,15 +71,15 @@ body {
 
 .img {
     top: 15px;
-    bottom: 0px;
+    bottom: 0;
     width: 60px;
-    height: 60px;
+    height: auto;
 }
 
 .telefono {
     color: white;
-    margin-right: 0px;
+    margin-right: 0;
     margin-top: auto;
     margin-bottom: auto;
-    font-size: large;
+    font-size: larger;
 }
